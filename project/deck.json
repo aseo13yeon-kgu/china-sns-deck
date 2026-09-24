@@ -1,0 +1,20 @@
+{
+  "v": 4,
+  "createdOnFiles": {"v": 1, "at": "2026-09-22T00:00:00Z"},
+  "title": "중국 SNS 지형도",
+  "order": ["cover", "types", "culture", "insight", "closing"],
+  "sections": {
+    "s1": {"description": "중국 SNS 생태계 소개", "start": "cover"},
+    "s2": {"description": "6대 주요 플랫폼 종류", "start": "types"},
+    "s3": {"description": "SNS 문화를 읽는 4가지 키워드", "start": "culture"},
+    "s4": {"description": "중국 SNS 사용 흐름과 시사점", "start": "insight"},
+    "s5": {"description": "정리 및 시사점", "start": "closing"}
+  },
+  "faces": {
+    "jetbrains-mono": {"family": "JetBrains Mono", "href": "https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500&display=swap"},
+    "pretendard": {"family": "Pretendard", "src": "/_blob/2c98b4e145d2e01a9ceaf90e8cb8e960"},
+    "noto-serif-sc": {"family": "Noto Serif SC", "src": "/_blob/655014b0f03c2d225076385d1d076f67"},
+    "paperlogy": {"family": "Paperlogy", "src": "/_blob/9ef054508b4b609a1c166e39c0500413"}
+  },
+  "designSystems": []
+}
